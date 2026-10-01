@@ -1,7 +1,7 @@
 {
   "name": "Check International Trade Barriers",
   "description": "Find information about potential barriers to exporting goods, providing services or investing in foreign countries",
-  "organisation": "Department for International Trade",
+  "organisation": "Department for Business, Innovation, Science and Trade",
   "theme": "Business and self-employed",
   "phase": "Beta",
   "liveService": "https://check-international-trade-barriers.service.gov.uk/",

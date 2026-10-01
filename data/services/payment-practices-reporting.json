@@ -1,9 +1,9 @@
 {
   "name": "Payment practices reporting",
   "description": "Large businesses must publish information about their payment terms and practices, and how they keep to them.",
-  "organisation": "Department for Business and Trade",
+  "organisation": "Department for Business, Innovation, Science and Trade",
   "theme": "Business and self-employed",
-  "phase": "Beta",
+  "phase": "Live",
   "liveService": "https://publish-payment-practices.service.gov.uk/",
   "sourceCode": [
     {

@@ -1,8 +1,8 @@
 {
   "name": "Ask the export support team a question",
   "synonyms": ["Export support service (ESS)"],
-  "description": "Ask the Department for International Trade a question to help your UK business export goods or services.",
-  "organisation": "Department for International Trade",
+  "description": "Ask the Department for Business, Innovation, Science and Trade a question to help your UK business export goods or services.",
+  "organisation": "Department for Business, Innovation, Science and Trade",
   "theme": "Business and self-employed",
   "phase": "Beta",
   "liveService": "https://www.get-help-selling-goods-services-abroad.service.gov.uk/",
